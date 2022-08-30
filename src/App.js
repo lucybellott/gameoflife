@@ -31,14 +31,14 @@ const gridOfNums = () => {
 const [grid, setGrid] = useState(gridOfNums)
 
 
-console.log(grid)
+//console.log(grid)
 
 
 
 
   return (
     <div className="App">
-      <h1>hi there</h1>
+      <h1>Game of life</h1>
     </div>
   );
 }
